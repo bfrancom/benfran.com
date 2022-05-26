@@ -1,0 +1,6 @@
+---
+title: Vi
+image: images/31.jpg
+date: 2006-08-11 09:48:00.000000000 -06:00
+---
+You know you've been using <a href="http://www.vim.org/">vi</a> too long when you start pressing "esc" to try and save your work in Notepad.

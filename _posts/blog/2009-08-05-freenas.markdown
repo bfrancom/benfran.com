@@ -1,0 +1,6 @@
+---
+title: FreeNAS
+image: images/81.jpg
+date: 2009-08-05 10:33:00.000000000 -06:00
+---
+I was doing some research on some open source Network Attached Storage (NAS) utilities earlier this morning, and came across <a href="http://www.freenas.org">FreeNAS</a>.  It is based on FreeBSD, and has multiple protocols it can use for NAS like: FTP, iSCSI, CIFS, NFS, etc.<br /><br />See <a href="http://en.wikipedia.org/wiki/FreeNAS">Wikipedia's entry</a> for more details.

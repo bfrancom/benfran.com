@@ -1,0 +1,6 @@
+---
+title: CACLS
+image: images/66.jpg
+date: 2009-01-06 02:39:00.000000000 -07:00
+---
+User rights ACL's on windows xp<br /><br />cacls "C:windowstemp*.*" /e /g EVERYONE:F<br /><br />cacls c:windowstemp /e /g everyone:f

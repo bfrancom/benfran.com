@@ -1,0 +1,6 @@
+---
+title: Xine
+image: images/24.jpg
+date: 2006-05-30 22:41:00.000000000 -06:00
+---
+I was having troubles playing DVD's in Xine.  It kept dropping frames.  I finally found a fix:<br />Enable dma mode on the CD/DVD drive.<br />Do this by:<br />sudo hdparm -d1 /dev/hdc #(or whichever your drive is)<br /><br />Sweetness!

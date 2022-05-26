@@ -1,0 +1,6 @@
+---
+title: Hylafax
+image: images/17.jpg
+date: 2006-02-01 06:25:00.000000000 -07:00
+---
+hyla# faxaddmodem ttyf2<br /><br />Sorry, I been testing <a href="http://www.hylafax.org">Hylafax</a> at work.  It is a fax-server.  It has the abilities for lots of junk. We are using it for being an e-mail/fax, fax/e-mail gateway.  For those of you non-technical, it means you can send &amp; recieve faxes from e-mail.

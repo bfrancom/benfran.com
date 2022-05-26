@@ -1,0 +1,6 @@
+---
+title: Back into 3D
+image: images/14.jpg
+date: 2005-12-04 15:10:00.000000000 -07:00
+---
+I've started testing (again) Blender, the Open Source 3d animation software.  It is pretty sweet. I've tested it out before, but coming from 3d studio max, and being off the "scene" for a while, it feels like starting over.  A lot of it comes back like riding a bike with vertices, polygons, faces, nurbs, rendering, shading, mapping, etc.  It will be a while to become as proficient as I once was.  -If i can keep it up. We'll see.

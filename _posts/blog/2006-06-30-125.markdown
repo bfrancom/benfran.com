@@ -1,0 +1,6 @@
+---
+title: "(no title)"
+image: images/30.jpg
+date: 2006-06-30 05:21:00.000000000 -06:00
+---
+Test<br /><p>This is a test from my linux boxen using "Blog Entry Poster"</p><p><br />June 30th 11:18</p>

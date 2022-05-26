@@ -1,0 +1,8 @@
+---
+title: MythTV
+image: images/10.jpg
+date: 2005-07-26 04:10:00.000000000 -06:00
+---
+![MythTV Games](/images/old/gamefour.png)
+
+Did I tell you how cool <a href="http://www.mythtv.org">MythTV</a> is? It does so much stuff, it is amazing. Not only does it "Tivo", but you can play games, listen to music, watch DVD's, get weather, view images, etc. Check out the <a href="http://http://www.mythtv.org/modules.php?name=MythFeatures">features</a>

@@ -1,0 +1,6 @@
+---
+title: Cygwin RSYNC ssh hang in "pull" mode
+image: images/53.jpg
+date: 2008-03-27 07:57:00.000000000 -06:00
+---
+<span style="font-family:arial;">I'm trying to workaround cygwin hanging when using rsync over ssh in a "pull" mode.  I used to have it set up to where each box would "push" to a central server.  It was irritating in that I had to keep a script for each box and it's own cron job.  So I changed to "pull" mode, and keep getting I/O timeouts .  </span><br /><br /><span style="font-family:arial;">Now I am going to try the following:</span><br /><span style="font-family:arial;">1) Run rsync in daemon mode on the multiple boxes:<br /><blockquote>cygrunsrv --install "rsyncd" --path /usr/bin/rsync --args "--daemon --no-detach" --desc "Starts a rsync daemon for accepting incoming rsync connections"  --disp "Rsync Daemon" --type auto</blockquote><br />2) In cron script create an ssh session with port forwarded:<br /><blockquote>ssh -f user@remote -L 8730:192.168.x.x:873 sleep 10</blockquote><br />3)Run rsync command to "pull" from boxes via central server:<br /><blockquote> rsync --stats --progress --port=8730 -anvvzr localhost::apps/ /apps/</blockquote><br /></span><pre style="font-family: arial;"></pre>

@@ -1,0 +1,6 @@
+---
+title: SLES 10 x86_64 Subversion
+image: images/63.jpg
+date: 2008-10-27 05:28:00.000000000 -06:00
+---
+At work I needed to install subversion for the programming department.  The problem I ran into was that SLES 10 does not include subversion in their repositories.  They have older versions (1.3.x) available via the SDK, but we needed a more recent version (1.5.x).<br /><br />After browsing around on the internet, I found <a href="http://ftp.suse.com/pub/projects/apache/subversion/10.0-x86_64/">this</a> link:<br /><a href="http://ftp.suse.com/pub/projects/apache/subversion/10.0-x86_64/"> http://ftp.suse.com/pub/projects/apache/subversion/10.0-x86_64/<br /></a><br /><br /><br />I then installed the following:<br /><span style="font-style: italic;">neon-0.26.1-10.1.x86_64.rpm       </span><br /><span style="font-style: italic;">subversion-server-1.5.2-32.1.x86_64.rpm</span><br /><span style="font-style: italic;">subversion-1.5.2-32.1.x86_64.rpm  </span><br /><span style="font-style: italic;">subversion-tools-1.5.2-32.1.x86_64.rpm</span><br /><br />There may have been a few other dependencies from the regular SLES repositories that I needed, but afterwards, subversion is up and running.

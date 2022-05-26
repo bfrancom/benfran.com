@@ -1,0 +1,6 @@
+---
+title: 4412D+ Template
+image: images/27.jpg
+date: 2006-06-12 10:20:00.000000000 -06:00
+---
+10/25/06<br />Here is a template for all for the Avaya 4412D+ handsets.<br />Blank One:<br /><a href="http://bfrancom.googlepages.com/4412dplus_blank_template.pdf">BLANK.PDF</a><br /><br /><br /><a href="http://bfrancom.googlepages.com/4412dplus_blank_templatecopy.svg">BLANK.SVG</a><br /><br /><br /><a href="http://hachijuhachi0.tripod.com/4412d_plus.pdf">ORIGINAL.PDF</a><br /><br /><a href="http://hachijuhachi0.tripod.com/4412Dplus.svg">ORIGINAL.SVG</a><br /><br />The SVG's should be editable if you download and use the free opensource<a href="http://www.inkscape.org">inkscape</a> vector program.<br /><br /><br />Later,<br />The sloth.

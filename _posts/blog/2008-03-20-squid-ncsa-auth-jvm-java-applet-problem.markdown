@@ -1,0 +1,6 @@
+---
+title: Squid NCSA Auth JVM Java Applet Problem
+image: images/52.jpg
+date: 2008-03-20 01:49:00.000000000 -06:00
+---
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_kYEysMxY62I/R-J_yXsHZPI/AAAAAAAAA4o/WhWkyIgfToM/s1600-h/squid.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="/images/old/squid.png" alt="" id="BLOGGER_PHOTO_ID_5179843024758727922" border="0" /></a><br /><br />After setting up <a href="http://www.cyberciti.biz/tips/linux-unix-squid-proxy-server-authentication.html">ncsa_auth in squid</a> (FreeBSD 6.3), Java applets wouldn't run.  I found <a href="http://markmail.org/message/2siuzyjoapfc7hkg#query:squid%20java%20applets+page:1+mid:f7uocvvr7bbdn3hj+state:results">this</a> link that solved it.<br /><br /><blockquote>You can solve this by creating an acl like this:<br />acl <strong style="font-weight: normal;">java</strong>_jvm browser <strong style="font-weight: normal;">Java</strong>/1.4 <strong style="font-weight: normal;">Java</strong>/1.5 Java/1.6<br />http_access allow <strong style="font-weight: normal;">java</strong>_jvm  <p>Remember to keep it in front of any http_access lines regarding authentication, otherwise it won't work.</p></blockquote><p>  </p>

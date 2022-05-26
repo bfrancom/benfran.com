@@ -1,0 +1,10 @@
+---
+title: btrfs
+image: images/101.jpg
+date: 2010-07-20 10:28:03.000000000 -06:00
+---
+One of the many great things about Linux is choice.  You can choose from a vast array of file system types to keep your data on.  You can even slice and dice and use different file systems on different partitions.  In other words, you can have your cake and eat it too!  I have run several file systems on various flavors of Linux including ext2, ext3, reiser, xfs, jfs, nss (novell), and I'm looking forward to running the new <a title="brtfs" href="https://btrfs.wiki.kernel.org" target="_blank">btrfs</a> file system.
+
+In many Enterprise cases, firms may not care what file system the data is on.  The OS may load from a local disk, with all the company data located on a SAN or NAS, connected via iSCSI or Fibre Channel.  Furthermore, the data could be hosted on an open source or closed source product.
+
+Some of the benefits of btrfs include cloning, snapshots, and a few others.  See the wiki here: https://btrfs.wiki.kernel.org/index.php/Main_Page#Features

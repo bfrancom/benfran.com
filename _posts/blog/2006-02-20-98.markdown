@@ -1,0 +1,6 @@
+---
+title: "(no title)"
+image: images/19.jpg
+date: 2006-02-20 15:33:00.000000000 -07:00
+---
+Suse 10<br /><p>Testing out the new version of <a href="http://www.opensuse.org/">OpenSuSE</a>.  It is pretty good thus far.  I chose the <a href="http://www.gnome.org/">Gnome</a> desktop since I don't normally run it.  I usually use <a href="http://www.kde.org/">KDE</a>.  </p><p><br />Anyway, it is nice and sleek.</p>

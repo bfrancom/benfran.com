@@ -1,0 +1,6 @@
+---
+title: Pet Peeve
+image: images/18.jpg
+date: 2006-02-03 14:49:00.000000000 -07:00
+---
+Don't you hate it when you go to a website and it reads, "click here to see a larger image," and you click it and the image is the same size?<br />Well, I came across one that the image was smaller.<br />The website admin should be beaten.

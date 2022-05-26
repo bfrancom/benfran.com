@@ -1,0 +1,6 @@
+---
+title: TinyURL
+image: images/70.jpg
+date: 2009-02-22 14:15:00.000000000 -07:00
+---
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="/images/old/TinyURL-logo.png"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 104px; height: 27px;" src="/images/old/TinyURL-logo.png" border="0" alt="" /></a><br /><br />http://www.tinyurl.com is great at making long URL's (web addresses) small and easy.  Check this one out:<br /><a href="http://tinyurl.com/Benjamin-Francom">http://tinyurl.com/Benjamin-Francom</a>

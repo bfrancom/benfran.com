@@ -1,0 +1,6 @@
+---
+title: SLES 10 SP 1 OES 2 LUM Enable User Broken
+image: images/68.jpg
+date: 2009-02-12 10:33:00.000000000 -07:00
+---
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_kYEysMxY62I/SZTGxaXeyvI/AAAAAAAAC6A/8TCEYBDVnvo/s1600-h/suse-logo.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 120px; height: 116px;" src="http://2.bp.blogspot.com/_kYEysMxY62I/SZTGxaXeyvI/AAAAAAAAC6A/8TCEYBDVnvo/s200/suse-logo.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5302081213515614962" /></a><br /><br />We were having issues with LUM, and finally fixed it with the right context, and server addresses in nam.conf.<br />This file is located in:<br />/etc/nam.conf<br />The base-name should have the o, and ou of where the master Unix config object is stored.  The preferred server should be a local server (in our case the same server) so as to not break LAN connections to NSS volumes if the WAN link goes down.  This means you need a replica of eDir on this server.<br /><br />After saving the file, restart namcd, and nscd.  Then do run namconfig cache_refresh. Finally, type in: <br />id admin<br />You should get a uid, gid, and some group names that admin belongs to.

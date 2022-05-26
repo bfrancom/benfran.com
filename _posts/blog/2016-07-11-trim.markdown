@@ -1,0 +1,46 @@
+---
+title: Trim/Convert mp4v2 files using ffmpeg
+image: images/159.jpg
+date: 2016-07-11 13:24:22.000000000 -06:00
+---
+I had to trim some videos to a 30 second clip, and needed to do it in a way that kept the codec. Using straight ffmpeg, I couldn't figure out how to get an mp4v2 output from an mp4v2 input. The file looks like this:
+
+`Test.mp4: ISO Media, MP4 v2 [ISO 14496-14]`
+
+Converting using ffmpeg changes the file to mp4 v1 though ☹.
+
+`ffmpeg -i Test.mp4 -vcodec copy -acodec copy -ss 0 -to 30 outputFile.mp4`
+
+Results in this filetype (running `file outputFile.mp4`):
+
+`outputFile.mp4: ISO Media, MP4 Base Media v1 [IS0 14496-12:2003]`
+
+So after the ffmpeg conversion, I used `MP4Box -brand mp42 outputFile.mp4`, and that seems to work.  It doesn't seem too lossy, but we'll see. 
+
+**UPDATE:**<br>
+I now need write a script to go through and convert a bunch of wmv files to these mp4v2's. So far it looks like:<br>
+`find . -iname '*.wmv'|while read filename; do ffmpeg -i "$filename" -strict -2 "$filename".mp4; done`
+
+And I'll need to fix the filename correctly.
+
+**UPDATE 2:**<br>
+Here is my script. I think it's pretty good:
+```
+#!/bin/bash
+while read filename
+  do
+    name="${filename%.wmv}.mp4"
+    if [ -f "$name" ];
+    then
+        echo "File $name exists already sucka!"
+    else
+        (ffmpeg -i "$filename" -strict -2 "$name" && SAVEIFS=$IFS; IFS=$(echo -en "\n\b");MP4Box -brand mp42 $name;IFS=$SAVEIFS)&
+    fi
+done < <(find . -iname '*.wmv')
+wait
+```
+
+This is even better using gnu parallel:
+```
+find . -iname '*.wmv' | time parallel -j+0 --eta "ffmpeg -n -loglevel panic -hide_banner -i {} -strict -2 {.}.mp4"
+```

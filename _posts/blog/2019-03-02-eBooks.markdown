@@ -1,0 +1,48 @@
+---
+title: New Mutt and Outlook365 eBook!
+image: images/168.jpg
+date: 2019-03-02 21:00:43.000000000 -06:00
+categories: [books, ebooks]
+tags: [mutt, ebooks, technology]
+---
+
+#### This $4.99 (USD) eBook describes a _basic_ IMAP connection Ubuntu setup from mutt to control your Office 365 or Outlook mail.  This should also work with Mac and other Linux flavors.
+
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/bfrancom-mutt-o365-basic" target="_blank">Buy Basic Mutt Office365 Book</a>
+
+What it includes:
+* Installation instructions for mutt and msmtp
+* Basic mutt configuration for Outlook (Outlook365/Office365)
+* msmtp configurion to send mail easily via mutt
+* Common troubleshooting steps.
+* Generous comments throughout the configuration files so you can tell what each line does
+
+#### My next eBook will have advanced instructions which will include:
+
+* Offline version
+* Automatic login
+* Using the side-bar
+* Colors
+* Custom Hooks 
+* Setting this up in a Docker container
+* Windows, Linux, Mac versions of the eBook
+* Querying AD, LDAP, Or Mac Address Book
+* Specific outbound firewall example (UFW, OpenBSD PF)
+* Screencast video of connecting, reading, and sending mail through mutt
+
+Subscribe and receive awesome music, tech info and exclusive content directly from Ben:
+
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Submit</button>
+  </p>
+</form>
+
+
+If you want instructions written up for something related to automation, integration, or security, please contact me at bfrancom@gmail.com
+
+
