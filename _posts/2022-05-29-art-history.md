@@ -1,6 +1,5 @@
-
 ---
-title: 
+title: Sketches
 tags: [art, comics]
 categories: [art, comics]
 date: 2022-05-28 13:00:00
