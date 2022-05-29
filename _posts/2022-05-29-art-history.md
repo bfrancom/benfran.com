@@ -3,9 +3,6 @@ title: Sketches
 tags: [art, comics]
 categories: [art, comics]
 date: 2022-05-28 13:00:00
----
-
-
 gallery:
   - url: /images/1.jpg
       image_path: /images/1.jpg
@@ -487,6 +484,7 @@ gallery:
       image_path: /images/120.jpg
       alt: 'Ben Francom image 120'
       title: 'Ben Francom Art 120'
+---
 
 {% include gallery caption="Sketches by Ben Francom" %}
 
