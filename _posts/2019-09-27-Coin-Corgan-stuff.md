@@ -10,17 +10,18 @@ New music Friday is back!
 (I prefer live music over studio music)
 
 Coin:
-{{< youtube WgLaIIefJ3w>}}
-{{< youtube Pyglc-6svDQ>}}
+{% include video id="WgLaIIefJ3w" provider="youtube" %}
+{% include video id="Pyglc-6svDQ" provider="youtube" %}
+
 
 
 Billy Corgan [from Smashing Pumpkins) (2017)
-{{< youtube oaSN_bHjyIw>}}
+{% include video id="oaSN_bHjyIw" provider="youtube" %}
 
 Kongar-ol Ondar -Tuvan Throat Singing- (2007)
-{{< youtube TVyyhHFKI8E>}}
+{% include video id="TVyyhHFKI8E" provider="youtube" %}
 
 The Dead South (2018)
-{{< youtube aAbQAA1viqQ>}}
+{% include video id="aAbQAA1viqQ" provider="youtube" %}
 
 Enjoy!
