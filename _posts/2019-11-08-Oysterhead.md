@@ -11,7 +11,7 @@ Oysterhead is one of those infamous supergroups, consisting of Les Claypool, Ste
 
 They have some live recordings that are pretty sweet, like their show from Bonarroo in 2006.
 
-{% include video id="pV6uIhmVX1U" provider="youtube" %}
+{{< youtube pV6uIhmVX1U>}}
 
 Or how about this New Orleans performance from 2000?
 
