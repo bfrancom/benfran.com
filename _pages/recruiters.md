@@ -17,7 +17,11 @@ This means if you or the company you are working for is looking to take things t
 * Checkout my [about](/about/) page to get to know me better.
 * The position will need to be fan-freakin'-tastic! It definitely shouldn't be just a run-of-the-mill, boring company–unless of course you are Elon Musk, and it is [**the** boring company](https://www.boringcompany.com).
 * Any opportunities would have to be super-compelling to even consider a change.
-* Pay will need to be within the top 10% of the industry, based on San Francisco rates.
+* Since I have a proven track record of saving or generating multi-millions of $ per year, pay will need to be within the top 10% of the industry, based on MATANG rates. For more info, please see:
+  * https://www.levels.fyi/company/Amazon/salaries/Software-Engineer/Principal-SDE/
+  * https://www.levels.fyi/company/Facebook/salaries/Software-Engineer/E7/
+  * https://www.levels.fyi/company/Google/salaries/Software-Engineer/L7/
+
 * The ability to Remote/Telecommute full-time from anywhere in the world. I'm not completely against going to an office, but there would need to be a very compelling reason as to why.
 
 If this sounds like something you could offer, let's talk over lunch!
@@ -32,7 +36,7 @@ If you want someone will do the bare minimum, and only react to problems, you'll
 
 * A great and thoughtful leader
 * Constantly thinking and finding ways of how to improve themselves, their work, and others
-* Increasing business value through reducing risk, optimizing business processes, and increasing customer satisfaction through technology....
+* Increasing business value (and $Millions per year) through automation, availability, reducing risk, optimizing business processes, and increasing customer satisfaction through technology....
 
 Then look no further! I can be contacted via [e-mail](mailto:bfrancom@gmail.com), or any of the social media links from my homepage.
 
