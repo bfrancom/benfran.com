@@ -3,6 +3,7 @@ image: "images/about.jpg"
 description: "All About Ben Francom"
 layout: "about"
 draft: false
+permalink: /about/
 ---
 
 ## Me In 30 Seconds:	
