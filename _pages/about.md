@@ -1,9 +1,7 @@
 ---
-image: "images/about.jpg"
-description: "All About Ben Francom"
-layout: "about"
-draft: false
 permalink: /about/
+title: About
+toc: true
 ---
 
 ## Me In 30 Seconds:	

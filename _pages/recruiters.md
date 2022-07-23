@@ -1,8 +1,5 @@
 ---
-image: "images/about.jpg"
-description: "Recruiting"
-layout: "about"
-draft: false
+title: Recruiters
 permalink: /recruiters/
 ---
 
