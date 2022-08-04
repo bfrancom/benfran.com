@@ -15,7 +15,7 @@ This means if you or the company you are working for is looking to take things t
 * Checkout my [about](/about/) page to get to know me better.
 * The position will need to be fan-freakin'-tastic! It definitely shouldn't be just a run-of-the-mill, boring company–unless of course you are Elon Musk, and it is [**the** boring company](https://www.boringcompany.com).
 * Any opportunities would have to be super-compelling to even consider a change.
-* Since I have a proven track record of saving or generating multi-millions of $ per year, pay will need to be within the top 10% of the industry, based on MATANG rates. Why? Because someone who generates or saves $Millions per year should be compensated fairly.  For more info, please see:
+* Since I have a proven track record of saving or generating multi-millions of $ per year, pay will need to be within the top 10% of the industry, based on MATANG rates. Why? Because someone who generates or saves $Millions per year should be compensated fairly.  For more info on industry equivalent total compensation, please see:
 
   * [Amazon Solution Architect L7](https://www.levels.fyi/companies/amazon/salaries/solution-architect/levels/l7)
   * [Microsoft Solution Architect 67](https://www.levels.fyi/companies/microsoft/salaries/solution-architect/levels/67)
