@@ -40,5 +40,5 @@ If you want someone will do the bare minimum, and only react to problems, you'll
 
 Then look no further! I can be contacted via [e-mail](mailto:bfrancom@gmail.com), or any of the social media links from my homepage.
 
-Checkout my post on addressing business value in [Ops and Security](/blog/2019-07-05-defining-business-value-in-it-operations-and-security/) for more information as to why you would want me on your team.
+Checkout my post on addressing business value in [Ops and Security](/defining-business-value-in-it-operations-and-security/) for more information as to why you would want me on your team.
 
