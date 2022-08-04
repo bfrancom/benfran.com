@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ben Francom"
-  avatar : "/images/peyote-wheedleson/peyote-avatar.jpg"
-  bio    : "Awww yes indeed you've found it."
+  # name   : "Ben Francom"
+  # avatar : "/images/peyote-wheedleson/peyote-avatar.jpg"
+  # bio    : "Awww yes indeed you've found it."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
