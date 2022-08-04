@@ -18,7 +18,7 @@ This means if you or the company you are working for is looking to take things t
 * Since I have a proven track record of saving or generating multi-millions of $ per year, pay will need to be within the top 10% of the industry, based on MATANG rates. Why? Because someone who generates or saves $Millions per year should be compensated fairly.  For more info, please see:
 
   * [Amazon Solution Architect L7](https://www.levels.fyi/companies/amazon/salaries/solution-architect/levels/l7)
-  * [Microsoft Solution Architect 66](https://www.levels.fyi/companies/microsoft/salaries/solution-architect/levels/66)
+  * [Microsoft Solution Architect 67](https://www.levels.fyi/companies/microsoft/salaries/solution-architect/levels/67)
   * [Google Solution Architect L7](https://www.levels.fyi/companies/google/salaries/solution-architect/levels/l7)
 
 
