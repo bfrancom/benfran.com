@@ -15,10 +15,12 @@ This means if you or the company you are working for is looking to take things t
 * Checkout my [about](/about/) page to get to know me better.
 * The position will need to be fan-freakin'-tastic! It definitely shouldn't be just a run-of-the-mill, boring company–unless of course you are Elon Musk, and it is [**the** boring company](https://www.boringcompany.com).
 * Any opportunities would have to be super-compelling to even consider a change.
-* Since I have a proven track record of saving or generating multi-millions of $ per year, pay will need to be within the top 10% of the industry, based on MATANG rates. For more info, please see:
-  * https://www.levels.fyi/company/Amazon/salaries/Software-Engineer/Principal-SDE/
-  * https://www.levels.fyi/company/Facebook/salaries/Software-Engineer/E7/
-  * https://www.levels.fyi/company/Google/salaries/Software-Engineer/L7/
+* Since I have a proven track record of saving or generating multi-millions of $ per year, pay will need to be within the top 10% of the industry, based on MATANG rates. Why? Because someone who generates or saves $Millions per year should be compensated fairly.  For more info, please see:
+
+  * [Amazon Solution Architect L7] (https://www.levels.fyi/companies/amazon/salaries/solution-architect/levels/l7)
+  * [Microsoft Solution Architect 66] (https://www.levels.fyi/companies/microsoft/salaries/solution-architect/levels/66)
+  * [Google Solution Architect L7] (https://www.levels.fyi/companies/google/salaries/solution-architect/levels/l7)
+  
 
 * The ability to Remote/Telecommute full-time from anywhere in the world. I'm not completely against going to an office, but there would need to be a very compelling reason as to why.
 
