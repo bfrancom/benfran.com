@@ -58,19 +58,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ben Francom"
-  avatar : "/images/peyote-wheedleson/peyote-avatar.jpg"
-  bio    : "Awww yes indeed you've found it."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://benfran.com"
+  # name   : "Ben Francom"
+  # avatar : "/images/peyote-wheedleson/peyote-avatar.jpg"
+  # bio    : "Awww yes indeed you've found it."
+  #links:
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://benfran.com"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bfrancom"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/bfrancom"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"

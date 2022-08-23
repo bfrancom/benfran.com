@@ -17,10 +17,9 @@ This means if you or the company you are working for is looking to take things t
 * Any opportunities would have to be super-compelling to even consider a change.
 * The ability to Remote/Telecommute full-time from anywhere in the world. I'm not completely against going to an office, but there would need to be a very compelling reason as to why.
 * Since I have a proven track record of saving or generating millions dollars per year, pay will need to be within the top 10% of the industry. For more info and examples, please see:
-  * https://www.levels.fyi/company/Amazon/salaries/Software-Engineer/Principal-SDE/
-  * https://www.levels.fyi/company/Facebook/salaries/Software-Engineer/E7/
-  * https://www.levels.fyi/company/Google/salaries/Software-Engineer/L7/
-
+  * [Amazon Solution Architect L7](https://www.levels.fyi/companies/amazon/salaries/solution-architect/levels/l7)
+  * [Microsoft Solution Architect 67](https://www.levels.fyi/companies/microsoft/salaries/solution-architect/levels/67)
+  * [Google Solution Architect L7](https://www.levels.fyi/companies/google/salaries/solution-architect/levels/l7)
 
 
 If this sounds like something you could offer, let's talk over lunch!
@@ -38,5 +37,4 @@ If you want someone will do the bare minimum, and only react to problems, you'll
 * Increasing business value (and $Millions per year) through automation, availability, reducing risk, optimizing business processes, and increasing customer satisfaction through technology....
 
 Then look no further! I can be contacted via [e-mail](mailto:bfrancom@gmail.com), or any of the social media links from my homepage.
-
 

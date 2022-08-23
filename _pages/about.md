@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: About
-toc: true
+toc: false
 ---
 
 ## Me In 30 Seconds:	
