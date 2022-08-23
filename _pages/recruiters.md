@@ -15,12 +15,13 @@ This means if you or the company you are working for is looking to take things t
 * Checkout my [about](/about/) page to get to know me better.
 * The position will need to be fan-freakin'-tastic! It definitely shouldn't be just a run-of-the-mill, boring company–unless of course you are Elon Musk, and it is [**the** boring company](https://www.boringcompany.com).
 * Any opportunities would have to be super-compelling to even consider a change.
-* Since I have a proven track record of saving or generating multi-millions of $ per year, pay will need to be within the top 10% of the industry, based on MATANG rates. For more info, please see:
+* The ability to Remote/Telecommute full-time from anywhere in the world. I'm not completely against going to an office, but there would need to be a very compelling reason as to why.
+* Since I have a proven track record of saving or generating millions dollars per year, pay will need to be within the top 10% of the industry. For more info and examples, please see:
   * https://www.levels.fyi/company/Amazon/salaries/Software-Engineer/Principal-SDE/
   * https://www.levels.fyi/company/Facebook/salaries/Software-Engineer/E7/
   * https://www.levels.fyi/company/Google/salaries/Software-Engineer/L7/
 
-* The ability to Remote/Telecommute full-time from anywhere in the world. I'm not completely against going to an office, but there would need to be a very compelling reason as to why.
+
 
 If this sounds like something you could offer, let's talk over lunch!
 
@@ -38,5 +39,4 @@ If you want someone will do the bare minimum, and only react to problems, you'll
 
 Then look no further! I can be contacted via [e-mail](mailto:bfrancom@gmail.com), or any of the social media links from my homepage.
 
-Checkout my post on addressing business value in [Ops and Security](/blog/2019-07-05-defining-business-value-in-it-operations-and-security/) for more information as to why you would want me on your team.
 
