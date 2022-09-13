@@ -26,13 +26,13 @@ This means if you or the company you are working for is looking to take things t
 * The position will need to be fan-freakin'-tastic! It definitely shouldn't be just a run-of-the-mill, boring company–unless of course you are Elon Musk, and it is [**the** boring company](https://www.boringcompany.com).
 * Any opportunities would have to be super-compelling to even consider a change.
 * The ability to Remote/Telecommute full-time from anywhere in the world. I'm not completely against going to an office, but there would need to be a very compelling reason as to why.
-* Since I have a proven track record of saving or generating millions dollars per year, pay will need to be within the top 10% of the industry. For more info and examples, please see:
+* Since I have a proven track record of saving or generating millions of dollars per year, pay will need to be within the top 10% of the industry. For more info and examples, please see:
   * [Amazon Solution Architect L7](https://www.levels.fyi/companies/amazon/salaries/solution-architect/levels/l7)
   * [Microsoft Solution Architect 67](https://www.levels.fyi/companies/microsoft/salaries/solution-architect/levels/67)
   * [Google Solution Architect L7](https://www.levels.fyi/companies/google/salaries/solution-architect/levels/l7)
 
 
-If this sounds like something you could offer, let's talk over lunch!
+If this sounds like something you could offer, let's talk!
 
 ## Pipe-dream!
 
@@ -46,5 +46,5 @@ If you want someone will do the bare minimum, and only react to problems, you'll
 * Constantly thinking and finding ways of how to improve themselves, their work, and others
 * Increasing business value (and $Millions per year) through automation, availability, reducing risk, optimizing business processes, and increasing customer satisfaction through technology....
 
-Then look no further! I can be contacted via [e-mail](mailto:bfrancom@gmail.com), or any of the social media links from my homepage.
+Then look no further! I can be contacted via [e-mail](mailto:bfrancom@gmail.com), or hit me up on [LinkedIn](https://www.linkedin.com/in/benfrancom/).
 
