@@ -20,7 +20,7 @@ Some things I've created
 Fun facts: 
   - I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago
   - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/#comics/)
-  - I've found security vulnerabilities in multiple products including this [product](https://en.wikipedia.org/wiki/Skyward)
+  - I've found security vulnerabilities in multiple products including this [one](https://en.wikipedia.org/wiki/Skyward)
 
 I’m one of those rare people with a weird balance of being both left and right-brained. I play well with others, remain calm in emergencies, and am a top performer whether alone or working with a team. 
 
