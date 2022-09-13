@@ -14,7 +14,7 @@ In consulting with the CTO, I was tasked with planning the next phase of how the
 
 The driving factors for the change was their existing server infrastructure was old, unmaintained, and unpatched. This meant there were security issues and a certain level of risk that needed to be addressed.
 
-The existing setup was using Kubernetes, which historically worked pretty good for them, but not great. There were growing pains, and problems with self-managing the underlying infrastructure. The downside to running Kubernetes on your own (or self-managed), is all the underlying complexities to maintain, and this was problematic when it came to (incident management)[https://www.atlassian.com/incident-management/kpis/common-metrics]. The existing workloads were running in AWS, but all being self-managed.
+The existing setup was using Kubernetes, which historically worked pretty good for them, but not great. There were growing pains, and problems with self-managing the underlying infrastructure. The downside to running Kubernetes on your own (or self-managed), is all the underlying complexities to maintain, and this was problematic when it came to incident management. The existing workloads were running in AWS, but all being self-managed.
 
 After careful consideration, and researching several options, I decided to utilize AWS Elastic Container Service (ECS) Fargate (I'll call it just 'Fargate' from here on out, knowing you can also run Fargate on EKS). To put this more simply, unlike running Kubernetes on your own, Fargate allows you to run your software applications easily without having to manage so much on your own. Instead, Amazon manages the server infrastructure for you under the hood.
 
