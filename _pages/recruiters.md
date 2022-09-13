@@ -1,6 +1,16 @@
 ---
 title: Recruiters
 permalink: /recruiters/
+layout: single
+header:
+  image: /assets/images/laptop.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
+tags:
+  - recruiters
+  - recruiting
+  - hiring
+  - hire
 ---
 
 
