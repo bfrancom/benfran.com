@@ -16,7 +16,7 @@ tags:
 
 ## What's All the Hubbub, Bub?
 
-If you've reached this page, you are likely coming from my [linkedIn](https://www.linkedin.com/in/benfrancom/) profile, or want to see what all the hubbub is about.  I always keep one eyeball open for new opportunities, be they full-time, or consulting–but please note–I am very satisfied with my current position.
+If you've reached this page, you are likely coming from my [linkedIn](https://www.linkedin.com/in/benfrancom/) profile, or about page and want to see what all the hubbub is about.  I always keep one eyeball open for new opportunities, be they full-time, or consulting–but please note–I am very satisfied with my current position.
 
 ## What Does That Mean?
 
