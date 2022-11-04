@@ -30,7 +30,7 @@ This means if you or the company you are working for is looking to take things t
   * [Amazon Principal Solution Architect L7](https://www.levels.fyi/companies/amazon/salaries/solution-architect/levels/principal-sa)
   * [Microsoft Solution Architect 66](https://www.levels.fyi/companies/microsoft/salaries/solution-architect/levels/66)
   * [Google Solution Architect L7](https://www.levels.fyi/companies/google/salaries/solution-architect/levels/l7)
-* For non-tech examples, see the top 10% range in the following industry research:
+* For non-tech salary examples, see the top 10% range in the following industry research:
   * [Salary.com](https://www.salary.com/tools/salary-calculator/cloud-computing-senior-manager?yrs=20&drpt=DR01&rptto=RL02&edu=EDLEV5&pfm=PR01)
   * [Glassdoor.com](https://www.glassdoor.com/Salaries/us-principal-cloud-architect-salary-SRCH_IL.0,2_IN1_KO3,28.htm?clickSource=searchBtn)
   * [Payscale.com](https://www.payscale.com/mypayscale.aspx?tab=business&view=report&surveyId=63c4612d-7e35-4c6c-a93c-6bef85ba49e5) (Please note: on this one you will need to create your own account since it isn't able to be shared. Search for Principal Architect with 15 years of experience.)
