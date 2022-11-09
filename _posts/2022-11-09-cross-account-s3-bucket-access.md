@@ -85,7 +85,7 @@ Still in account A, Setup an inline IAM Policy in the ROLE you created in the la
 
 If using code, make sure that it is assuming the role (which generates separate, temporary creds): (https://docs.aws.amazon.com/IAM/latest/UserGuide/example_sts_AssumeRole_section.html)[https://docs.aws.amazon.com/IAM/latest/UserGuide/example_sts_AssumeRole_section.html]
 
-I used the aws client in my testing.
+I used the aws client in my testing. Using your `bobbytable` user credentials, run the following: 
 
 `aws sts assume-role --role-arn "arn:aws:iam::8675309:role/account-a-s3-role" --role-session-name BenAWSCLI-Session --profile s3-test`
 
