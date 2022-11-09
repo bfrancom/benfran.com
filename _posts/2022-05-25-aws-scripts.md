@@ -1,6 +1,6 @@
 ---
 title: AWS Opensearch and EC2 Scripts
-tags: [aws, technology, ec2, opensearch]
+tags: [aws, technology, ec2, automation, opensearch]
 date: 2022-05-25 18:18:18
 ---
 
