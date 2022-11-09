@@ -23,6 +23,8 @@ These are some AWS Knowledge Center articles that I found useful:
 
 What are we doing in this step? Creating a bucket in account B, with a reference to Account A's role (from step 2). Confused yet? I had to draw a diagram to get it straight in my head. Diagrams are wonderful.
 
+![S3 Cross Account Access](/images/aws/s3-bucket-cross-account.jpg)
+
 Create an S3 bucket in account B called `account-b-bucket`, blocking all public access, with this bucket policy. You will need to come back after creating the role in step 2 to fill in the principal arn reference.  
 
 
