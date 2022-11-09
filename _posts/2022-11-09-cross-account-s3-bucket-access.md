@@ -1,3 +1,14 @@
+---
+title: Cross Account S3 Bucket Access
+date: 2022-11-09 18:18:18 -06:00
+tags:
+  - aws
+  - s3
+  - IAM
+  - technology
+  - automation
+---
+
 I had a use case come up recently for cross account access to grant the user in one account (Account A) to a different account's (Account B) S3 bucket. The requirements were such that users from Account A could only upload (but not download) objects.  I hadn't done this before, and wanted to document my findings.
 
 The fake account number referenced in this doc is `8675309` (because of Jenny). It's just made up. Replace with your real account number.
