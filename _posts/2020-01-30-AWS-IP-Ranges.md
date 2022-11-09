@@ -2,7 +2,10 @@
 title: AWS IP Range Automation
 image: images/186.jpg
 date: 2020-01-30 20:38:00.000000000 -06:00
-
+tags:
+  - aws
+  - technology
+  - automation
 ---
 
 AWS provides a list of their IP ranges for you to use when configuring whitelists, firewalls, and other things. The list is available in JSON from: 

@@ -2,7 +2,11 @@
 title: OpenBSD PF and OpenDNS
 image: images/187.jpg
 date: 2020-01-31 10:38:00.000000000 -06:00
-
+tags:
+  - openbsd
+  - technology
+  - automation
+  - security
 ---
 
 At home, I needed a way to prevent anything but OpenDNS from being used for DNS, and needed a rule that would do it in OpenBSD PF.
