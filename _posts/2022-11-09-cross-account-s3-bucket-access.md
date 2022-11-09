@@ -73,7 +73,7 @@ Note: This is so the user in account A can assume the needed *ROLE* in account A
 
 Still in account A, Setup an inline IAM Policy in the ROLE you created in the last step. Note, the name of the bucket is the remote bucket from account B.
 
-``` JSON
+```
 {
     "Version": "2012-10-17",
     "Statement": [
