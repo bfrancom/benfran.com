@@ -1,6 +1,6 @@
 ---
 title: Cross Account S3 Bucket Access
-date: 2022-11-09 18:18:18 -06:00
+date: 2022-11-09 18:18
 tags:
   - aws
   - s3
