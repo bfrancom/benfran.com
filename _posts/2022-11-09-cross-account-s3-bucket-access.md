@@ -109,8 +109,25 @@ export AWS_ACCESS_KEY_ID=<AccessKeyId>
 export AWS_SECRET_ACCESS_KEY=<SecretAccessKey>
 export AWS_SESSION_TOKEN=<SessionToken>
 ```
-
+## Troubleshooting
 Ensure you have the correct role assumed by using the aws client `aws sts get-caller-identity` then try uploading a file:
 `aws s3 cp test.txt s3://account-b-bucket/foo/test.txt`
 
 If it didn't work, note the error, and check the roles, policies and rights.
+
+## Encryption
+If you are using KMS encryption on the bucket, you'll need to grant access to the remote account access to the KMS key. See this AWS (Knowledge center doc)[https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-denied-error-s3/] for further info. Then add a statement in the role policy like:
+
+```
+{
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "kms:Decrypt",
+                "kms:Encrypt",
+                "kms:GenerateDataKey",
+                "kms:DescribeKey"
+            ],
+            "Resource": "arn:aws:kms:us-east-1:acct-b-number:key/mrk-1b21fa09f64a9593f95e59a02cb246"
+        }
+```
