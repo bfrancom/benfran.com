@@ -116,7 +116,7 @@ Ensure you have the correct role assumed by using the aws client `aws sts get-ca
 If it didn't work, note the error, and check the roles, policies and rights.
 
 ## Encryption
-If you are using KMS encryption on the bucket, you'll need to grant access to the remote account access to the KMS key. See this AWS (Knowledge center doc)[https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-denied-error-s3/] for further info. Then add a statement in the role policy like:
+If you are using KMS encryption on the bucket, you'll need to grant access to the remote account access to the KMS key. See this AWS [Knowledge center doc](https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-denied-error-s3/) for further info. Then add a statement in the role policy like:
 
 ```
 {
