@@ -1,6 +1,6 @@
 ---
 title: How I Migrated a Multi-Million $ Dollar Company from Kubernetes to AWS ECS Fargate
-tags: [cloud, cloud architecture, AWS, information security, cybersecurity]
+tags: [cloud, cloud architecture, AWS, kubernetes, k8s, information security, cybersecurity]
 date: 2022-03-12 13:00:00
 ---
 

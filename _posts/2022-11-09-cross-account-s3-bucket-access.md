@@ -5,6 +5,7 @@ tags:
   - aws
   - s3
   - IAM
+  - cross account access
   - technology
   - automation
 ---

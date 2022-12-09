@@ -1,6 +1,6 @@
 ---
 title: MONKEY POX!!!
-tags: [art, comics, monkey pox, monkey paw]
+tags: [art, comics, monkey pox, monkey paw, ww Jacobs]
 date: 2022-06-08 18:18:18
 ---
 

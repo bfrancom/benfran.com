@@ -7,6 +7,7 @@ tags:
   - technology
   - automation
   - dms
+  - data migration service
 ---
 
 I was just doing some testing of the AWS Data Migration Service (DMS), and it isn't obvious when setting up endpoints that the public IP address of the replication instance is the one that traffic will always come from/to. At least in my testing, this was true.
