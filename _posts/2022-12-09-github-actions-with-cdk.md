@@ -19,6 +19,7 @@ I've been diving deep into AWS CDK recently, and started with [https://cdkworksh
 
 This is a good way to get your feet wet. I wanted to see how to manage the deployment with GitHub actions. Ended up with this:
 
+
 ```
 on: [push, workflow_dispatch]
 jobs:
@@ -42,12 +43,11 @@ jobs:
         run: yarn cdk synth
       - name: Deploy stack
         run: yarn cdk deploy --all --require-approval never
-    ```
-
+```
 
     Also, if you want to use GitHub for your code repo (instead of CodeCommit), but have CodeBuild watch for GitHub repo changes and do the deploy, this example below worked. You'll need to setup in GitHub a personal access token (PAT), followed by adding that token in AWS SecretsManager as it is called below `github-token-secret`.
 
-    ```
+```
     export class WorkshopPipelineStack extends cdk.Stack {
     constructor(scope: Construct, id: string, props?: cdk.StackProps) {
         super(scope, id, props);
@@ -77,4 +77,4 @@ jobs:
             }
             )
         });
-        ```
+```
