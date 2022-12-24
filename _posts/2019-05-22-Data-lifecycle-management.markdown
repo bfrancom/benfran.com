@@ -2,12 +2,10 @@
 title: Data Lifecycle Management
 image: images/169.jpg
 date: 2019-05-22 17:22:22.000000000 -06:00
-tags: [writing, technical writing, technology, dlp, dlm,infosec]
+tags: [writing, technical writing, technology, dlp, dlm, infosec, data]
 ---
 
 ## How to Identify and Prevent Data Sprawl
-
-[PDF Version](/content/pdf/Ben_Francom_Data_Lifecycle_Management.pdf)
 
 ### Summary
 With the blur between on-premise and cloud networks, data finds its way into many unintended places.  The sprawl of data across enterprise systems increases costs and puts information at risk of loss, or theft. An enterprise’s reputation can be further tarnished based on noncompliance, loss of intellectual property, and/or public embarrassment. A good Data Lifecycle Management (DLM) strategy can help manage these risks to ensure data is protected and used in accordance with policy.

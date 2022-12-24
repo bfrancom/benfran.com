@@ -3,7 +3,7 @@ title: AWS EKS Kubernetes Fargate Ingress Controller ALB Certificate
 image: images/188.jpg
 exerpt: "Example of setting up certificate on AWS application load balancer for EKS/Fargate"
 date: 2020-02-08T21:36:18-06:00
-tags: [aws, kubernetes, fargate]
+tags: [aws, kubernetes, aws, ecs, fargate]
 categories: [aws, kubernetes, fargate, security]
 ---
 

@@ -2,6 +2,12 @@
 title: TMUX, mutt, and Vim Colors
 image: images/139.jpg
 date: 2013-10-14 15:26:53.000000000 -06:00
+tags:
+  - linux
+  - tmux
+  - openbsd
+  - mutt
+  - vim
 ---
 Just some notes on setting up mutt in tmux and using vim for the default editor.
 
@@ -15,4 +21,4 @@ So in ~/.vimrc I have this, and it works like I expect:
 <blockquote>set term=xterm-256color</blockquote>
 So now it looks like so (sorry it's chopped to protect the innocent):
 
-<a href="http://blog-bfrancom.rhcloud.com/wp-content/uploads/2013/10/Mutt.png"><img class="size-medium wp-image-711 alignleft" alt="Mutt" src="http://res.cloudinary.com/bfrancom/image/upload/h_300,w_86/v1399820280/Mutt_lxerij.png" width="86" height="300" /></a>
+![Mutt screenshot](/images/mutt_scrott.png)

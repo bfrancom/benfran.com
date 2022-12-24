@@ -6,6 +6,8 @@ tags:
   - aws
   - technology
   - automation
+  - security
+  - whitelist
 ---
 
 AWS provides a list of their IP ranges for you to use when configuring whitelists, firewalls, and other things. The list is available in JSON from: 
