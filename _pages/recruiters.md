@@ -35,7 +35,6 @@ This means if you or the company you are working for is looking to take things t
   * [Glassdoor.com](https://www.glassdoor.com/Salaries/us-principal-cloud-architect-salary-SRCH_IL.0,2_IN1_KO3,28.htm?clickSource=searchBtn)
   * [Payscale.com](https://www.payscale.com/mypayscale.aspx?tab=business&view=report&surveyId=63c4612d-7e35-4c6c-a93c-6bef85ba49e5) (Please note: on this one you will need to create your own account since it isn't able to be shared. Search for Principal Architect with 15 years of experience.)
 
-
 If this sounds like something you could offer, let's talk!
 
 ## Pipe-dream!
