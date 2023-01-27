@@ -6,13 +6,13 @@ layout: single
 title: "art"
 gallery:
 - url: /images/1.jpg
-    image_path: /images/1.jpg
-    alt: 'Ben Francom image 1'
-    title: 'Ben Francom Art 1'
+  image_path: /images/1.jpg
+  alt: 'Ben Francom image 1'
+  title: 'Ben Francom Art 1'
 - url: /images/2.jpg
-    image_path: /images/2.jpg
-    alt: 'Ben Francom image 2'
-    title: 'Ben Francom Art 2'
+  image_path: /images/2.jpg
+  alt: 'Ben Francom image 2'
+  title: 'Ben Francom Art 2'
 - url: /images/3.jpg
     image_path: /images/3.jpg
     alt: 'Ben Francom image 3'
