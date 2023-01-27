@@ -1,6 +1,9 @@
 ---
 title: Deploy a container to AWS in 5 lines of code
 date: 2023-01-26 17:00
+header:
+  image: /assets/images/laptop.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags:
   - software
   - IaC
