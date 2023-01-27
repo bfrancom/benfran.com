@@ -4,7 +4,8 @@ title: art
 tags: [art, comics, illustration]
 layout: single
 title: "art"
-gallery:- url: /images/1.jpg
+gallery:
+- url: /images/1.jpg
     image_path: /images/1.jpg
     alt: 'Ben Francom image 1'
     title: 'Ben Francom Art 1'
