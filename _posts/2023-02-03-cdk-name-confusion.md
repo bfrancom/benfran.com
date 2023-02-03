@@ -1,5 +1,5 @@
 ---
-title: AWS OpenSearch Serverless
+title: Naming Confusion
 date: 2023-02-03 18:18
 tags:
   - aws
