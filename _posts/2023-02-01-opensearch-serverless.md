@@ -1,6 +1,6 @@
 ---
 title: AWS OpenSearch Serverless
-date: 2023-01-26 18:18
+date: 2023-02-01 18:18
 tags:
   - aws
   - opensearch

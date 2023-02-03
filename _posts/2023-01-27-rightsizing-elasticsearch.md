@@ -1,6 +1,6 @@
 ---
 title: Rightsizing AWS OpenSearch
-date: 2023-01-26 18:18
+date: 2023-01-27 18:18
 tags:
   - aws
   - opensearch
