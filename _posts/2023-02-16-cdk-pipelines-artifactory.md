@@ -1,6 +1,6 @@
 ---
 title: Integrating Artifactory and Tests with CDK Pipelines
-date: 2023-02-16 18:18
+date: 2023-02-16 08:18
 tags:
   - aws
   - cloud
