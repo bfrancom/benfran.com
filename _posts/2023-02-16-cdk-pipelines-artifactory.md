@@ -13,4 +13,4 @@ Building further upon my ["Deploy a container to AWS in 5 lines of code"](/cdk-a
 
 It took me some time to figure out how to get the artifactory token to be read in the build environment.
 
-<script src="https://gist.github.com/bfrancom/674dd0cdad8b912e9730d4462cb13103"></script>
+{% gist 674dd0cdad8b912e9730d4462cb13103 %} 
