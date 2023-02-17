@@ -1,5 +1,5 @@
 ---
-title: Integrating Artifactory and Tests with CDK Pipelines
+title: Becoming Eggscelent
 date: 2023-02-16 18:18
 tags:
   - personal development
