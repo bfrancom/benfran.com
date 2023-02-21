@@ -28,6 +28,7 @@ To prepare for our discussion, I wrote 10 things on "Becoming Eggscelent." We ha
     * [Layne Norton](https://www.youtube.com/@biolayne1)
 7. Build relationships
     * [How to win friends and influence people](https://a.co/d/i3xG2aP)
+    * [Jordan Harbinger 6 minute networking](https://www.forbes.com/sites/hollycorbett/2022/08/31/the-founder-of-cotopaxi-on-how-to-use-capitalism-as-a-force-for-good/?sh=931f39a6e077)
 8. Negotiate, ace interviews, and better your tactics
     * [The Briefcase Technique](https://youtu.be/NViqHCrljf8)
     * [How to Write a Winning Resume, with Ramit Sethi](https://youtu.be/_0fjkKCsM1w)
