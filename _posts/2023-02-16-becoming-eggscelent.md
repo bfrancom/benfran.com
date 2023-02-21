@@ -24,8 +24,10 @@ To prepare for our discussion, I wrote 10 things on "Becoming Eggscelent." We ha
     * [Essentialism: The Disciplined Pursuit of Less](https://a.co/d/fzxZT5g)
     * [Cal Newport](calnewport.com)
     * [The SECRET HABITS of Top Performers! - Ramit Sethi Live Motivation](https://youtu.be/S_QxUmqH8eo)
-6. Take care of your body
+6. Take care of your mind and body
     * [Layne Norton](https://www.youtube.com/@biolayne1)
+    * [Therapy in a Nutshell](https://www.youtube.com/@TherapyinaNutshell)
+    * [Andrew Huberman](https://www.youtube.com/@hubermanlab)
 7. Build relationships
     * [How to win friends and influence people](https://a.co/d/i3xG2aP)
     * [Jordan Harbinger 6 minute networking](https://courses.jordanharbinger.com/courses/6-minute-networking)
