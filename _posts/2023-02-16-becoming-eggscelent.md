@@ -37,6 +37,7 @@ To prepare for our discussion, I wrote 10 things on "Becoming Eggscelent." We ha
 9. Embrace the suck
     * [Can't Hurt Me: Master Your Mind and Defy the Odds](https://a.co/d/6R1sh3f)
     * [Endure: How to Work Hard, Outlast, and Keep Hammering](https://a.co/d/69PwaN2)
+    * [Neil Gaiman - Inspirational Commencement Speech at the University of the Arts 2012](https://youtu.be/ikAb-NYkseI)
 10. Build wealth
     * [Rich Dad Poor Dad](https://a.co/d/60sh3SY)
     * [Ramit Sethi](https://www.youtube.com/@ramitsethi)
