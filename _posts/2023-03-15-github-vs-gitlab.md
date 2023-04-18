@@ -1,5 +1,5 @@
 ---
-title: ChatGPT's take on CI/CD in GitHub vs GitLab
+title:  GitHub vs GitLab, A ChatGPT Showdown!
 date: 2023-03-15 18:18
 tags:
   - architect
@@ -16,7 +16,7 @@ tags:
 ---
 
 Is ChatGPT biased against GitHub when compared to GitHub actions? You decide!
-Here is the conversation I had with our new robot overlords.
+Here is the conversation I had with our new robot overlord.
 
 Ben Francom:
 > What is bettter, GitLab or GitHub, and why?
