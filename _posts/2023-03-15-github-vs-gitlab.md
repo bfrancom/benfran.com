@@ -15,7 +15,7 @@ tags:
   - ci/cd
 ---
 
-Is ChatGPT biased against GitHub when compared to GitHub actions? You decide!
+Is ChatGPT biased against GitHub when compared to Gitlab? You decide!
 Here is the conversation I had with our new robot overlord.
 
 Ben Francom:
