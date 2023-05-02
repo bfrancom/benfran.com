@@ -16,6 +16,7 @@ If you've been in tech for more than a few minutes, you'll note that naming thin
 * [Copilot](https://aws.amazon.com/containers/copilot/) and [Copilot](https://github.com/features/copilot)
 * [main](https://github.com/github/renaming) vs [main](https://opensource.com/article/19/5/how-write-good-c-main-function) 
 * [RDS](https://aws.amazon.com/rds/) and [RDS](https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome-to-rds)
+* [scp](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html) and [scp](https://en.wikipedia.org/wiki/Secure_copy_protocol)
 
 So there is a need to get specific when you are writing or speaking. eg) "Apache Tomcat Catalina" vs "MacOS Catalina" or "Amazon RDS" vs "Microsoft RDS" and so forth. Sometimes you'll need to take it further and expand all the acronyms too. 
 
