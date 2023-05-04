@@ -13,6 +13,8 @@ tags:
 
 How easy is it to deploy your code to AWS? It's as simple as 5 lines of code to have a completely hosted publicly available website. 
 
+For those that are impatient, the code is all available in [GitHub](https://github.com/bfrancom/cdk-app-runner).
+
 I wanted to see how [CDK](https://aws.amazon.com/cdk/) would handle deploying an [AppRunner](https://aws.amazon.com/apprunner/) website, and it turns out, it's easy as pie 🥧🍕.
 
 Make sure you have cdk installed locally: `npm install -g aws-cdk` then run the following:
