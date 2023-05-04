@@ -71,10 +71,10 @@ CdkAppRunnerStack.apprunnerurl = vsdncfcxyz.us-east-1.awsapprunner.com
 Stack ARN:
 arn:aws:cloudformation:us-east-1:8675309:stack/CdkAppRunnerStack/7f2d5a70-9dcb-11ed-a83d-122e155993f5
 ```
+To clean up everything, run `cdk destroy` and you're done.
 
 Take that [Kubernetes](https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d)!!!
 
-To clean up everything, run `cdk destroy` and you're done.
 
 Here is another resource for doing something similar:
 [https://aws.amazon.com/getting-started/guides/deploy-webapp-apprunner/module-one/](https://aws.amazon.com/getting-started/guides/deploy-webapp-apprunner/module-one/)
