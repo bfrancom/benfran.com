@@ -15,6 +15,8 @@ How easy is it to deploy your code to AWS? It's as simple as 5 lines of code to 
 
 I wanted to see how [CDK](https://aws.amazon.com/cdk/) would handle deploying an [AppRunner](https://aws.amazon.com/apprunner/) website, and it turns out, it's easy as pie 🥧🍕.
 
+Make sure you have cdk installed locally: `npm install -g aws-cdk` then run the following:
+
 `mkdir cdk-app-runner && cd cdk-app-runner && cdk init --language typescript`
 
 Then edit `lib/cdk-app-runner-stack.ts` and add the following:
@@ -36,7 +38,10 @@ Drop this under `//The code that defines your stack goes here`
 
 This code pulls a hello world app from ECR public. I guess it's technically 7 lines of code with the import, but that's mainly for readability. Ok, 8 if you include the bash commands, but that's a bit pedantic, wouldn't you say?
 
-run `cdk diff` and if all looks good, run `cdk deploy` and you are done!
+Now run the following:
+* `cdk bootstrap` to bootstrap your AWS account with needed CDK resources
+* `cdk diff` to see the diff between local vs remote.
+* If all looks good, run `cdk deploy` and you are done!
 
 But wait, I also want to know the AppRunner URL after it deploys. I know it is severely painful to go hunt through the AWS console to find it.
 
