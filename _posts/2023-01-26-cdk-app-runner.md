@@ -38,7 +38,8 @@ Drop this under `//The code that defines your stack goes here`
 
 This code pulls a hello world app from ECR public. I guess it's technically 7 lines of code with the import, but that's mainly for readability. Ok, 8 if you include the bash commands, but that's a bit pedantic, wouldn't you say?
 
-Now run the following:
+Now run the following in your terminal:
+* `npm i @aws-cdk/aws-apprunner-alpha` 
 * `cdk bootstrap` to bootstrap your AWS account with needed CDK resources
 * `cdk diff` to see the diff between local vs remote.
 * If all looks good, run `cdk deploy` and you are done!
