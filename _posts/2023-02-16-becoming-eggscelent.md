@@ -13,6 +13,8 @@ I just met with [Colby Meline](https://www.linkedin.com/in/colby-meline/) for an
 To prepare for our discussion, I wrote 10 things on "Becoming Eggscelent." We had a good chuckle on just the title alone. But hopefully others will find value in it as well. It's a reference mostly to books, videos and people that have been helpful for me over the years. None of them really technical, but definitely help with personal development and self improvement (which helps build technical and other skills as well).
 
 1. Love God, family and treat others well, but set boundaries and prevent any kind of abuse
+    * [Church of Jesus Christ of Latter Day Saints](https://www.churchofjesuschrist.org/)
+    * [What is True](https://www.churchofjesuschrist.org/study/general-conference/2022/10/19nelson)
 2. Keep your sense of humor: Laugh at life, even if sucky things happen–especially when sucky things happen
     * [Regular Show - Eggscellent Challenge Advert](https://youtu.be/GvJsvwJXcZM)
 3. Be grateful: Each day write 3 things you are grateful for
