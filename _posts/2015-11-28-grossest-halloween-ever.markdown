@@ -5,8 +5,6 @@ image: images/151.jpg
 tags: [writing, fiction, funny, story, stories, comedy]
 ---
 
-[pdf version](/assets/books/grossest-halloween-ever.pdf)
-
 
 One specific Halloween party I remember from my youth was when we were at church with all the young'uns gathered round. I'm sure I was looking forward to having a good time, hanging with my friends, and pounding as much sugar down my gullet as humanly possible. There were probably the normal games of beanbag toss, cakewalk, doughnut eating, etc. The only game I actually recall was "bobbing for apples."
 
