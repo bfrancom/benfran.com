@@ -1,6 +1,5 @@
 ---
 title: Grossest Halloween Ever
-image: images/151.jpg
 date: 2015-11-28 20:17:37.000000000 -07:00
 tags: [writing, fiction, funny, story, stories, comedy]
 ---
