@@ -1,7 +1,7 @@
 ---
 title: Slip N Slide
 tags: [comedy, writing, story, cereal]
-date: 2023-07-20 18:18:18
+date: 2023-07-19 18:18:18
 ---
 
 My parents were geniuses. They didn't believe in buying crappy toys that would bust two seconds after being purchased.
