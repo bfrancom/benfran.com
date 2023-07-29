@@ -21,7 +21,7 @@ I like to have fun while working hard, and love [God](https://churchofjesuschris
 - ⚡ Fun Facts:
   - I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago
   - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/comics/)
-  - I've found security vulnerabilities in multiple products including [skyward](https://en.wikipedia.org/wiki/Skyward)
+  - I've found security vulnerabilities in multiple products including [adp](https://www.adp.com/), [vacations to go](https://www.vacationstogo.com/), and [skyward](https://en.wikipedia.org/wiki/Skyward)
 - 💻 Open Source Contributions: 
   - [GitHub Audit Tool](https://github.com/EISMGard/github-audit-tool)
   - [GitHub Issues](https://github.com/search?q=bfrancom&type=issues)
