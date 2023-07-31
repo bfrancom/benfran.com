@@ -1,6 +1,5 @@
 ---
 permalink: /art/
-title: Art
 tags: [art, comics, illustration]
 layout: single
 title: Art
