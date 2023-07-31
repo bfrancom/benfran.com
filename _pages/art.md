@@ -38,10 +38,6 @@ gallery:
     image_path: /images/art/Untitled_Artwork_15.jpg
   - url: /images/art/Untitled_Artwork_16.jpg
     image_path: /images/art/Untitled_Artwork_16.jpg
-  - url: /images/art/Untitled_Artwork_16.jpg
-    image_path: /images/art/Untitled_Artwork_16.jpg
-  - url: /images/art/Untitled_Artwork_16.jpg
-    image_path: /images/art/Untitled_Artwork_16.jpg
   - url: /images/art/Untitled_Artwork_17.jpg
     image_path: /images/art/Untitled_Artwork_17.jpg
   - url: /images/art/Untitled_Artwork_18.jpg
