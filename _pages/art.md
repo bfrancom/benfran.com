@@ -436,26 +436,14 @@ gallery:
     image_path: /images/art/108.jpg
     alt: 'Ben Francom image 108'
     title: 'Ben Francom Art 108'
-  - url: /images/art/109.jpg
-    image_path: /images/art/109.jpg
-    alt: 'Ben Francom image 109'
-    title: 'Ben Francom Art 109'
   - url: /images/art/110.jpg
     image_path: /images/art/110.jpg
     alt: 'Ben Francom image 110'
     title: 'Ben Francom Art 110'
-  - url: /images/art/111.jpg
-    image_path: /images/art/111.jpg
-    alt: 'Ben Francom image 111'
-    title: 'Ben Francom Art 111'
   - url: /images/art/112.jpg
     image_path: /images/art/112.jpg
     alt: 'Ben Francom image 112'
     title: 'Ben Francom Art 112'
-  - url: /images/art/113.jpg
-    image_path: /images/art/113.jpg
-    alt: 'Ben Francom image 113'
-    title: 'Ben Francom Art 113'
   - url: /images/art/114.jpg
     image_path: /images/art/114.jpg
     alt: 'Ben Francom image 114'
@@ -464,22 +452,6 @@ gallery:
     image_path: /images/art/115.jpg
     alt: 'Ben Francom image 115'
     title: 'Ben Francom Art 115'
-  - url: /images/art/116.jpg
-    image_path: /images/art/116.jpg
-    alt: 'Ben Francom image 116'
-    title: 'Ben Francom Art 116'
-  - url: /images/art/117.jpg
-    image_path: /images/art/117.jpg
-    alt: 'Ben Francom image 117'
-    title: 'Ben Francom Art 117'
-  - url: /images/art/118.jpg
-    image_path: /images/art/118.jpg
-    alt: 'Ben Francom image 118'
-    title: 'Ben Francom Art 118'
-  - url: /images/art/119.jpg
-    image_path: /images/art/119.jpg
-    alt: 'Ben Francom image 119'
-    title: 'Ben Francom Art 119'
   - url: /images/art/120.jpg
     image_path: /images/art/120.jpg
     alt: 'Ben Francom image 120'
