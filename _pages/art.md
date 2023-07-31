@@ -4,6 +4,14 @@ tags: [art, comics, illustration]
 layout: single
 title: Art
 gallery:
+  - url: /images/art/Untitled_Artwork.jpg
+    image_path: /images/art/Untitled_Artwork.jpg
+    alt: 'Ben Francom image'
+    title: 'Ben Francom Art'
+  - url: /images/art/Untitled_Artwork_1.jpg
+    image_path: /images/art/Untitled_Artwork_1.jpg
+  - url: /images/art/Untitled_Artwork_2.jpg
+    image_path: /images/art/Untitled_Artwork_2.jpg
   - url: /images/art/1.jpg
     image_path: /images/art/1.jpg
     alt: 'Ben Francom image 1'
