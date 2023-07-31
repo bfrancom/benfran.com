@@ -12,6 +12,74 @@ gallery:
     image_path: /images/art/Untitled_Artwork_1.jpg
   - url: /images/art/Untitled_Artwork_2.jpg
     image_path: /images/art/Untitled_Artwork_2.jpg
+  - url: /images/art/Untitled_Artwork_3.jpg
+    image_path: /images/art/Untitled_Artwork_3.jpg
+  - url: /images/art/Untitled_Artwork_4.jpg
+    image_path: /images/art/Untitled_Artwork_4.jpg
+  - url: /images/art/Untitled_Artwork_5.jpg
+    image_path: /images/art/Untitled_Artwork_6.jpg
+  - url: /images/art/Untitled_Artwork_7.jpg
+    image_path: /images/art/Untitled_Artwork_7.jpg
+  - url: /images/art/Untitled_Artwork_8.jpg
+    image_path: /images/art/Untitled_Artwork_8.jpg
+  - url: /images/art/Untitled_Artwork_9.jpg
+    image_path: /images/art/Untitled_Artwork_9.jpg
+  - url: /images/art/Untitled_Artwork_10.jpg
+    image_path: /images/art/Untitled_Artwork_10.jpg
+  - url: /images/art/Untitled_Artwork_11.jpg
+    image_path: /images/art/Untitled_Artwork_11.jpg
+  - url: /images/art/Untitled_Artwork_12.jpg
+    image_path: /images/art/Untitled_Artwork_12.jpg
+  - url: /images/art/Untitled_Artwork_13.jpg
+    image_path: /images/art/Untitled_Artwork_13.jpg
+  - url: /images/art/Untitled_Artwork_14.jpg
+    image_path: /images/art/Untitled_Artwork_14.jpg
+  - url: /images/art/Untitled_Artwork_15.jpg
+    image_path: /images/art/Untitled_Artwork_15.jpg
+  - url: /images/art/Untitled_Artwork_16.jpg
+    image_path: /images/art/Untitled_Artwork_16.jpg
+  - url: /images/art/Untitled_Artwork_16.jpg
+    image_path: /images/art/Untitled_Artwork_16.jpg
+  - url: /images/art/Untitled_Artwork_16.jpg
+    image_path: /images/art/Untitled_Artwork_16.jpg
+  - url: /images/art/Untitled_Artwork_17.jpg
+    image_path: /images/art/Untitled_Artwork_17.jpg
+  - url: /images/art/Untitled_Artwork_18.jpg
+    image_path: /images/art/Untitled_Artwork_18.jpg
+  - url: /images/art/Untitled_Artwork_19.jpg
+    image_path: /images/art/Untitled_Artwork_19.jpg
+  - url: /images/art/Untitled_Artwork_20.jpg
+    image_path: /images/art/Untitled_Artwork_20.jpg
+  - url: /images/art/Untitled_Artwork_21.jpg
+    image_path: /images/art/Untitled_Artwork_21.jpg
+  - url: /images/art/Untitled_Artwork_22.jpg
+    image_path: /images/art/Untitled_Artwork_22.jpg
+  - url: /images/art/Untitled_Artwork_23.jpg
+    image_path: /images/art/Untitled_Artwork_23.jpg
+  - url: /images/art/Untitled_Artwork_24.jpg
+    image_path: /images/art/Untitled_Artwork_24.jpg
+  - url: /images/art/Untitled_Artwork_25.jpg
+    image_path: /images/art/Untitled_Artwork_25.jpg
+  - url: /images/art/Untitled_Artwork_26.jpg
+    image_path: /images/art/Untitled_Artwork_26.jpg
+  - url: /images/art/Untitled_Artwork_27.jpg
+    image_path: /images/art/Untitled_Artwork_27.jpg
+  - url: /images/art/Untitled_Artwork_28.jpg
+    image_path: /images/art/Untitled_Artwork_28.jpg
+  - url: /images/art/Untitled_Artwork_29.jpg
+    image_path: /images/art/Untitled_Artwork_29.jpg
+  - url: /images/art/Untitled_Artwork_30.jpg
+    image_path: /images/art/Untitled_Artwork_30.jpg
+  - url: /images/art/Untitled_Artwork_31.jpg
+    image_path: /images/art/Untitled_Artwork_32.jpg
+  - url: /images/art/Untitled_Artwork_33.jpg
+    image_path: /images/art/Untitled_Artwork_33.jpg
+  - url: /images/art/Untitled_Artwork_34.jpg
+    image_path: /images/art/Untitled_Artwork_34.jpg
+  - url: /images/art/Untitled_Artwork_35.jpg
+    image_path: /images/art/Untitled_Artwork_35.jpg
+  - url: /images/art/Untitled_Artwork_36.jpg
+    image_path: /images/art/Untitled_Artwork_36.jpg
   - url: /images/art/1.jpg
     image_path: /images/art/1.jpg
     alt: 'Ben Francom image 1'
