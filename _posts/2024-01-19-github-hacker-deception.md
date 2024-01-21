@@ -9,9 +9,9 @@ date: 2024-01-19 18:18:18
 I work regularly administering GitHub and 100's of repos across multiple organizations and came across something a little off kilter the other day.
 
 I found a user named `eng-admins`. Not interesting at a first glance, but kind of weird, eh? Here is their GitHub page (archived for reference):
-https://web.archive.org/save/https://github.com/eng-admins?tab=overview&from=2023-12-01&to=2023-12-31
+[https://web.archive.org/save/https://github.com/eng-admins?tab=overview&from=2023-12-01&to=2023-12-31](https://web.archive.org/save/https://github.com/eng-admins?tab=overview&from=2023-12-01&to=2023-12-31)
 
-![Alt text](image.png)
+![Alt text](/images/eng-admins-gh-user.png)
 
 It looks like a __team__ name, even though it is an active GitHub __user__ account.
 
