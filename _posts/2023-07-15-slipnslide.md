@@ -10,7 +10,7 @@ Case in point, Slip 'N Slide. If you've ever slid on one, you know how thin and 
 
 As luck would have it, we lived on a pretty awesome hill that not only was good for sledding on snow in the winter, but also, for our new summer experiment, a DIY slip n' slide.
 
-It was about a million times better than the toy found at stores. You see the construction plastic was probably 20 feet wide and 40 feet long, ~8 Mil thick, taking up most of our front yard. We got it all set up with the garden hose at the top, and we were slippin' and slidin' and having all sorts of fun.  We even got some dish soap to make it more slickery'er than snot! I would have killed at the time for some non-chloric, slicon based kitchen lubricant from Clark Griswold to make us go sailing even faster. Even the cool kids who never would have been seen dead with us decided it was worth the cost of moving down a few rungs on the social ladder and joined in.
+It was about a million times better than the toy found at stores. You see the construction plastic was probably 20 feet wide and 40 feet long, ~8 Mil thick, taking up most of our front yard. We got it all set up with the garden hose at the top, and we were slippin' and slidin' and having all sorts of fun.  We even got some dish soap to make it slickery'er than snot! I would have killed at the time for some non-chloric, silicon based kitchen lubricant from Clark Griswold to make us go sailing even faster. Even the cool kids who never would have been seen dead with us decided it was worth the cost of moving down a few rungs on the social ladder and joined in.
 
 This went on for a day or three until ....
 

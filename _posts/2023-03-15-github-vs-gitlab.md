@@ -19,7 +19,7 @@ Is ChatGPT biased against GitHub when compared to Gitlab? You decide!
 Here is the conversation I had with our new robot overlord.
 
 Ben Francom:
-> What is bettter, GitLab or GitHub, and why?
+> What is better, GitLab or GitHub, and why?
 
 ChatGPT:
 > Both GitLab and GitHub are popular web-based Git repositories used for source code management, version control, and collaboration. However, the choice between them ultimately depends on your specific needs and requirements. Here are some key differences between the two:

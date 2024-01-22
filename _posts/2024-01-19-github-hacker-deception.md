@@ -27,14 +27,14 @@ Easy enough to fix though, right? Just prepend your team names with something li
 
 This reminds me of a similar problem in O365 involving groups. See more at: [https://support.microsoft.com/en-us/office/create-a-group-in-outlook-04d0c9cf-6864-423c-a380-4fa858f27102#ID0EBF=Windows](https://support.microsoft.com/en-us/office/create-a-group-in-outlook-04d0c9cf-6864-423c-a380-4fa858f27102#ID0EBF=Windows)
 
-This assumnes creating groups is allowed in your organization. The problem involves setting up a group name in Outlook like that of someone in power, say like Bill Gates, or CxO somewhere.
+This assumes creating groups is allowed in your organization. The problem involves setting up a group name in Outlook like that of someone in power, say like Bill Gates, or CxO somewhere.
 
 If your normal email pattern is `bill.gates@contoso.com`, you could set up a group named similarly:
 `bill.gates.group@contoso.com`.
 
 Then anyone emailing said group may not look at autocompletion and email the wrong person (or group in this case) with potentially sensitive information.
 
-This could be either an insider threat or external threat if somone's credentials are compromised.
+This could be either an insider threat or external threat if someone's credentials are compromised.
 
 We could also assume said threat could store and forward the email to the correct recipient and this becomes a quasi-man-in-the-middle attack as they now become the relay.
 
