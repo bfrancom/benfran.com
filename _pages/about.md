@@ -12,7 +12,7 @@ I live by several mantras; I ain't afeared of no man nor ghost. I don't take no 
 I like to have fun while working hard, and love [God](https://churchofjesuschrist.org), family, technology, [people](https://www.linkedin.com/in/benfrancom/), [art](https://benfran.com/tags/#art/), [music](https://benfran.com/tags/#music/) and biking. I also love self-deprecating humor, and the other kinds–if there are any. 
 
 - I’m currently working on Platform Architecture leveraging python, nodeJS, GitHub, Terraform and AWS.
-- ✏️ Some things I've created:
+- Some things I've created:
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
   - [GitHub Enterprise License Alert]([https://github.com/EISMGard/github-audit-tool](https://github.com/EISMGard/github-enterprise-license-alert))
   - [EISMGard Company](https://www.eismgard.com)
