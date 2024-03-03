@@ -1,6 +1,6 @@
 ---
-title: Recruiters
-permalink: /recruiters/
+title: Recruiting
+permalink: /recruiting/
 layout: single
 header:
   image: /assets/images/laptop.jpg
