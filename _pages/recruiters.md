@@ -29,7 +29,7 @@ This means if you or the company you are working for is looking to take things t
 * Since I have a proven track record of saving or generating millions of dollars per year, pay will need to be within the top 10% of the industry. For more info and examples, please see:
   * [Salary.com](https://www.salary.com/tools/salary-calculator/cloud-computing-senior-manager?yrs=20&drpt=DR01&rptto=RL02&edu=EDLEV5&pfm=PR01)
   * [Glassdoor.com](https://www.glassdoor.com/Salaries/chief-architect-salary-SRCH_IM755_KO0,15.htm)
-  * [levels.fyi](https://www.levels.fyi/t/solution-architect?countryId=254)
+  * [Levels.fyi](https://www.levels.fyi/t/solution-architect?countryId=254)
 
 If this sounds like something you could offer, let's talk!
 
