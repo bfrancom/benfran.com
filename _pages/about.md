@@ -6,7 +6,7 @@ toc: false
 
 ## Me In 30 Seconds:	
 
-I live by several mantras; I ain't afeared of no man nor ghost. I don't take no for an answer, no prisoners, and no crap from no one. When I foresee or detect any trouble, I proceed to kick butt, and stack'em 10 high.
+I live by several mantras; I ain't afeared of no man nor ghost. I don't take no for an answer, no prisoners, and no crap from no one. When I foresee or detect any trouble, I proceed to kick butt, and stack'em 10 high!
 
 ## Me in 300 seconds – If you are a slow reader
 I like to have fun while working hard, and love [God](https://churchofjesuschrist.org), family, technology, [people](https://www.linkedin.com/in/benfrancom/), [art](https://benfran.com/tags/#art/), [music](https://benfran.com/tags/#music/) and biking. I also love self-deprecating humor, and the other kinds–if there are any. 
