@@ -27,7 +27,7 @@ This means if you or the company you are working for is looking to take things t
 * Any opportunities would have to be super-compelling to even consider a change.
 * The ability to Remote/Telecommute full-time from anywhere in the world. I'm not completely against going to an office, but there would need to be a very compelling reason as to why.
 * Since I have a proven track record of saving or generating millions of dollars per year, pay will need to be within the top 10% of the industry. For more info and examples, please see:
-  * [Salary.com](https://www.salary.com/tools/salary-calculator/cloud-computing-senior-manager?yrs=20&drpt=DR01&rptto=RL02&edu=EDLEV5&pfm=PR01)
+  * [Salary.com](https://www.salary.com/tools/salary-calculator/chief-systems-architect/salt-lake-city-ut?yrs=20&rptto=RL02&edu=EDLEV5&pfm=PR01&type=bonus)
   * [Glassdoor.com](https://www.glassdoor.com/Salaries/chief-architect-salary-SRCH_IM755_KO0,15.htm)
   * [Levels.fyi](https://www.levels.fyi/t/solution-architect?countryId=254)
 
