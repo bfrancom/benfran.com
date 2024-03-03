@@ -33,13 +33,9 @@ This means if you or the company you are working for is looking to take things t
 
 If this sounds like something you could offer, let's talk!
 
-## Pipe-dream!
+## Let's Make Your Dreams Come True!
 
-You might think, "This guy's brain has jumped to ludicrous-speed, and he is asking for a pipe-dream!"
-
-I would respond with, "Maybe so, but it's not inconceivable for a person who is one of the best to want the best!"
-
-If you want someone will do the bare minimum, and only react to problems, you'll need to go bark up a different tree. But, if you want someone who is:
+If you want someone who is:
 
 * A great and thoughtful leader
 * Constantly thinking of ways to improve themselves, their work, and help others do the same
