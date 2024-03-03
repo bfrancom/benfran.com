@@ -14,7 +14,7 @@ I like to have fun while working hard, and love [God](https://churchofjesuschris
 - I’m currently working on Platform Architecture leveraging python, nodeJS, GitHub, Terraform and AWS.
 - Some things I've created:
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
-  - [GitHub Enterprise License Alert]([https://github.com/EISMGard/github-audit-tool](https://github.com/EISMGard/github-enterprise-license-alert))
+  - [GitHub Enterprise License Alert](https://github.com/EISMGard/github-enterprise-license-alert)
   - [EISMGard Company](https://www.eismgard.com)
   - [Website](https://benfran.com)
   - [LinkedIn](https://www.linkedin.com/in/benfrancom/)
