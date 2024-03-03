@@ -45,7 +45,7 @@ I like to have fun while working hard, and love [God](https://churchofjesuschris
 
 I’m one of those rare people with a weird balance of being both left and right-brained. I play well with others, remain calm in emergencies, and am a top performer whether alone or working with a team. 
 
-I've never been one to just sit on their laurels (whatever those are) waiting for things to happen. I enjoy working with people, learning new things, and engineering cool solutions. Check out [this page for recruiting information.](/recruiters) 
+I've never been one to just sit on their laurels (whatever those are) waiting for things to happen. I enjoy working with people, learning new things, and engineering cool solutions.
 
 I love working with people and technology, and specialize in technical leadership. A lot of what I do each day is craft innovative solutions and also help guide others in making great technical decisions.
 
