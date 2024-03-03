@@ -45,5 +45,7 @@ If you want someone will do the bare minimum, and only react to problems, you'll
 * Constantly thinking of ways to improve themselves, their work, and help others do the same
 * Increasing business value (and $Millions per year) through automation, availability, reducing risk, optimizing business processes, and increasing customer satisfaction through technology....
 
-Then look no further! I can be contacted via [e-mail](mailto:recruit@benfran.com).
+Then look no further! I can be contacted via [e-mail](mailto:recruit@benfran.com) or [linkedIn](https://www.linkedin.com/in/benfrancom/).
+
+Thanks!
 
