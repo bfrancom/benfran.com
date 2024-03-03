@@ -42,7 +42,7 @@ I would respond with, "Maybe so, but it's not inconceivable for a person who is 
 If you want someone will do the bare minimum, and only react to problems, you'll need to go bark up a different tree. But, if you want someone who is:
 
 * A great and thoughtful leader
-* Constantly thinking and finding ways of how to improve themselves, their work, and others
+* Constantly thinking of ways to improve themselves, their work, and help others do the same
 * Increasing business value (and $Millions per year) through automation, availability, reducing risk, optimizing business processes, and increasing customer satisfaction through technology....
 
 Then look no further! I can be contacted via [e-mail](mailto:recruit@benfran.com).
