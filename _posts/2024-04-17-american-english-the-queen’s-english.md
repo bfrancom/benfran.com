@@ -10,6 +10,6 @@ That is how he pronounced it, not me.
 
 So I says, “Did you say ‘artistic’ or ‘autistic’?
 
-He says back to me, “yeah, ‘awtistic’, you know..someone who is highly focused, very creative, and has difficulty with social norms.
+He says back to me, “yeah, ‘awtistic’, you know..someone who is highly focused, very creative, and has difficulty with social norms.”
 
 I no longer have a friend from the UK.
