@@ -1,7 +1,7 @@
 ---
 title: Rostrum vs Restroom
 tags: [jokes, funny]
-date: 2024-09-16 18:18:18
+date: 2024-09-16 04:18:18
 ---
 
 At church, there are labels on the walls for the different room types –bathrooms, offices, classrooms, cultural hall, the chapel and others.
