@@ -5,4 +5,4 @@ tags: [art, comics]
 date: 2021-07-11
 ---
 
-![Alt text](/images/GiftHorse.jpg "a title")
+![Gift Horse](/images/art/GiftHorse.jpg "Gift Horse")
